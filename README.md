@@ -4,4 +4,4 @@ Postgres SQL
 
 
 # Introduction to SQL
-![](Intro to SQL.PNG)
+![](Intro_to_SQL.PNG)
