@@ -28,6 +28,7 @@ selecting customer name and id from customer table, aggregation sum amount from 
 grouping by films and ordering by sum ampount from least to most
 
 #### 5.	Which actor was in the most movies in 2006 (based on this dataset)? Be sure to alias the actor name and count as a more descriptive name. Order the results from most to least.
+As the dataset includes movie of release year 2006 only. we only need to count film id for each actor. 
 inner join film_actor and actor table on actor_id
 selecting actor name from actor table and count of films from film_actor table
 grouping by actor_id and ordering by sum of films is descending order to get the actor list with most movies to least
