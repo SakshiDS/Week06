@@ -2,7 +2,7 @@
 
 Postgres SQL
 
-## what an RDBMS is and what SQL 
+## What an RDBMS is and What is SQL 
 RDBMS Relational Database Management System is a database with meaningful related data. Usually organized in tables, data in database can be accessed modified , created or processedthrough defined relations between tables and views. The logical organization of data in tables and meanigful relations between them makes it easier to process data.
 
 SQL Structured Querly Language as name suggests is programming language that helps access RDBMS. Using SQL the data can be created, manipulated, processed, deleted in a RDBMS.
